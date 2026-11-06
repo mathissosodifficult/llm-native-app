@@ -1,6 +1,8 @@
 # llm-native-app
 LLM 原生应用学习项目
 
+Agent 先读 [AGENTS.md](AGENTS.md)。重建开发环境的完整清单和命令在 [docs/dev-environment.md](docs/dev-environment.md)。
+
 ## Environment
 
 Python 3.13.5 (see `.python-version`).
